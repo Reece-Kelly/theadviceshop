@@ -20,10 +20,6 @@ include( "inc_nav.php" );
     <p>We understand that you may be sceptical about subscribing to our advice service, so we have provided these customer success stories to show you how successful our advice can make you!</p>
 
     <p><a href="subscribe.php">Subscribe now to our professional advice service.</a></p>
-<!-- 
-    <h3>Stories</h3>
-
-    <p><h2>Andy Ford</h2>After subscribing to the Advice shop professional advice service, the profit from my house paintin business has tripled! I couldn't be happier with the service, thank you Vanilla Ice!!!</p> -->
 
     <?php
     // Function to fetch stories from the database

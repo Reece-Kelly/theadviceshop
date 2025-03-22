@@ -4,5 +4,6 @@
     <li <?php if ($name == "advisors") echo 'class="current"'; ?>><a href="advisors.php"><span class="glyphicon glyphicon-star"></span> Advisors</a></li>
     <li <?php if ($name == "samples") echo 'class="current"'; ?>><a href="samples.php"><span class="glyphicon glyphicon-comment"></span> Sample Advice</a></li>
     <li <?php if ($name == "subscribe") echo 'class="current"'; ?>><a href="subscribe.php"><span class="glyphicon glyphicon-shopping-cart"></span> Subscribe Now</a></li>
+    <li <?php if ($name == "sucess_stories") echo 'class="current"'; ?>><a href="success_stories.php"><span class="glyphicon glyphicon-shopping-cart"></span> Success Stories</a></li>
   </ul>
 </nav>

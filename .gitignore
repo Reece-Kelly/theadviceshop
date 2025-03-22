@@ -1,0 +1,4 @@
+.idea
+db/test.sqlite
+other
+node_modules/

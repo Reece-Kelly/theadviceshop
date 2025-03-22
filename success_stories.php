@@ -16,7 +16,7 @@ include( "inc_nav.php" );
 <section id="content">
     <h2>Success Stories</h2>
 
-    <p><strong>Don't just take our word for it! Read our customer's experiences!</strong>.</p>
+    <p><strong>Don't just take our word for it! Read our customer's experiences!</strong></p>
     <p>We understand that you may be sceptical about subscribing to our advice service, so we have provided these customer success stories to show you how successful our advice can make you!</p>
 
     <p><a href="subscribe.php">Subscribe now to our professional advice service.</a></p>
